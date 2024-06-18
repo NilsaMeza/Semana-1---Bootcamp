@@ -139,6 +139,7 @@ li {
 }
 .coffee_menu {
   background: #fff;
+  margin: 20px;
   padding: 20px;
 }
 .caffee_menu_list_item {
@@ -174,7 +175,7 @@ li {
   width: 80px;
 }
 .frame_map {
-  position: relative;
+  position: static;
   width: 100%;
 }
 
